@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning how to create webpages!
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on assignments and projects. 
-- 📫 How to reach me tayforbes92@hotmail.com
 
 <!---
 tnfo222/tnfo222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
