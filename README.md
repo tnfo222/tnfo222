@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tnfo222 (she/her)
-- 👀 I’m interested in learning how to create webpages!
-- 🌱 I’m currently learning software development.
-- 💞️ I’m looking to collaborate on assignments and projects. 
+- 👋 Hi, I’m Taylor @tnfo222 (she/her).
+- 👀 I’m interested in game development and app creation!
+- 🌱 Highly adaptable and able to learn new programs / tools for any creation. 
+- 💞️ I’m looking to collaborate on projects. Currently, hosting and setting up modded Minecraft servers has been the request lately :D.  
 
 <!---
 tnfo222/tnfo222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
